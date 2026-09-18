@@ -1,0 +1,151 @@
+product_id,product_name,category,cost_price
+3001,Smartwatch Pro,Electronics,1591.98
+3002,Monitor Plus,Electronics,3810.25
+3003,Laptop Stand,Electronics,2968.18
+3004,Monitor Pro,Electronics,
+3005,Laptop Stand Pro,Electronics,750.67
+3006,Smartwatch Classic,Electronics,750.58
+3007,Laptop Stand Classic,Electronics,
+3008,Smartwatch Pro,Electronics,3484.78
+3009,Webcam Max,Electronics,2464.29
+3010,Bluetooth Speaker Lite,Electronics,2876.08
+3011,USB-C Hub Max,Electronics,229.25
+3012,Earbuds Plus,Electronics,3884.15
+3013,USB-C Hub Plus,Electronics,3354.9
+3014,Earbuds Classic,Electronics,967.51
+3015,Power Bank Pro,Electronics,850.03
+3016,Bluetooth Speaker Classic,Electronics,856.11
+3017,Laptop Stand Max,Electronics,1321.33
+3018,Smartwatch Max,Electronics,2170.31
+3019,Wireless Mouse Classic,Electronics,1812.99
+3020,Wireless Mouse Plus,Electronics,1271.23
+3021,Monitor Pro,Electronics,2505.63
+3022,Monitor Classic,Electronics,687.05
+3023,USB-C Hub Classic,Electronics,1274.76
+3024,Monitor Classic,Electronics,1560.49
+3025,Monitor Plus,Electronics,1905.87
+3026,Monitor Pro,Electronics,3172.93
+3027,Wireless Mouse,Electronics,918.74
+3028,Laptop Stand,Electronics,2129.8
+3029,Power Bank Plus,Electronics,2430.8
+3030,Earbuds Classic,Electronics,328.83
+3031,Power Bank Plus,Electronics,2489.05
+3032,Smartwatch,Electronics,806.52
+3033,Bluetooth Speaker Max,Electronics,400.45
+3034,Power Bank Lite,Electronics,3803.21
+3035,Smartwatch Pro,Electronics,3867.68
+3036,Webcam Max,Electronics,3262.33
+3037,Laptop Stand Classic,Electronics,1322.76
+3038,Smartwatch Lite,Electronics,526.04
+3039,USB-C Hub Classic,Electronics,2784.3
+3040,USB-C Hub Pro,Electronics,1844.59
+3041,Webcam Plus,Electronics,619.85
+3042,Bluetooth Speaker Lite,Electronics,2056.43
+3043,Earbuds Lite,Electronics,282.4
+3044,Smartwatch Classic,Electronics,3650.88
+3045,Wireless Mouse,Electronics,1146.3
+3046,Monitor Lite,Electronics,2700.71
+3047,USB-C Hub,Electronics,1350.09
+3048,Bluetooth Speaker Pro,Electronics,2152.26
+3049,Webcam Plus,Electronics,2254.83
+3050,Earbuds,Electronics,861.69
+3051,Formal Shirt Pro,Fashion,3882.9
+3052,Running Shoes,Fashion,3134.26
+3053,Sneakers Pro,Fashion,3767.07
+3054,Cotton T-Shirt Max,Fashion,3595.09
+3055,Wrist Watch Pro,Fashion,2451.91
+3056,Handbag Max,Fashion,3699.22
+3057,Sneakers,Fashion,490.7
+3058,Cap Pro,Fashion,904.53
+3059,Running Shoes Classic,Fashion,324.13
+3060,Denim Jacket Plus,Fashion,1402.52
+3061,Wrist Watch,Fashion,1646.41
+3062,Cotton T-Shirt Plus,Fashion,1194.69
+3063,Sneakers Classic,Fashion,3340.64
+3064,Leather Wallet Classic,Fashion,1523.5
+3065,Leather Wallet,Fashion,1231.6
+3066,Denim Jacket Max,Fashion,2239.38
+3067,Cap Classic,Fashion,692.56
+3068,Running Shoes Plus,Fashion,3238.46
+3069,Wrist Watch Lite,Fashion,437.02
+3070,Leather Wallet Plus,Fashion,3949.51
+3071,Denim Jacket Lite,Fashion,3123.14
+3072,Cap Lite,Fashion,915.06
+3073,Cotton T-Shirt Pro,Fashion,171.26
+3074,Leather Wallet Plus,Fashion,3289.53
+3075,Leather Wallet Max,Fashion,2871.4
+3076,Leather Wallet,Fashion,2956.68
+3077,Leather Wallet Classic,Fashion,3119.39
+3078,Sneakers Lite,Fashion,435.07
+3079,Sneakers Max,Fashion,1530.09
+3080,Running Shoes Plus,Fashion,596.1
+3081,Denim Jacket Plus,Fashion,3472.95
+3082,Handbag Plus,Fashion,2549.7
+3083,Cap Pro,Fashion,1423.96
+3084,Leather Wallet Max,Fashion,394.7
+3085,Cotton T-Shirt Pro,Fashion,1347.28
+3086,Sunglasses,Fashion,1401.96
+3087,Sneakers Lite,Fashion,2958.98
+3088,Sneakers Plus,Fashion,2604.6
+3089,Running Shoes Plus,Fashion,3565.77
+3090,Leather Wallet Lite,Fashion,1968.03
+3091,Running Shoes Plus,Fashion,610.44
+3092,Sunglasses Lite,Fashion,2895.99
+3093,Leather Wallet Classic,Fashion,3079.02
+3094,Formal Shirt,Fashion,2310.92
+3095,Formal Shirt Plus,Fashion,3118.22
+3096,Sneakers Lite,Fashion,2051.11
+3097,Wrist Watch Lite,Fashion,2162.52
+3098,Running Shoes Classic,Fashion,1796.03
+3099,Cap Lite,Fashion,247.86
+3100,Denim Jacket Pro,Fashion,565.38
+3101,Water Bottle,Home & Kitchen,271.0
+3102,Cushion Cover Pro,Home & Kitchen,2600.18
+3103,Curtains Classic,Home & Kitchen,1360.27
+3104,Water Bottle Lite,Home & Kitchen,2108.0
+3105,Wall Clock Lite,Home & Kitchen,3644.13
+3106,Table Lamp,Home & Kitchen,1109.78
+3107,Water Bottle Classic,Home & Kitchen,1729.97
+3108,Water Bottle,Home & Kitchen,3058.87
+3109,Table Lamp Max,Home & Kitchen,1030.87
+3110,Cushion Cover,Home & Kitchen,446.37
+3111,Curtains Plus,Home & Kitchen,1265.54
+3112,Bedsheet Set Lite,Home & Kitchen,770.7
+3113,Storage Box Classic,Home & Kitchen,3729.34
+3114,Table Lamp Max,Home & Kitchen,
+3115,Storage Box Plus,Home & Kitchen,2588.6
+3116,Cushion Cover Pro,Home & Kitchen,3505.12
+3117,Table Lamp Classic,Home & Kitchen,3244.14
+3118,Cutlery Set Plus,Home & Kitchen,868.29
+3119,Non-stick Pan Lite,Home & Kitchen,3586.35
+3120,Cutlery Set,Home & Kitchen,2226.47
+3121,Cutlery Set Classic,Home & Kitchen,3258.64
+3122,Blender Max,Home & Kitchen,3599.95
+3123,Non-stick Pan Plus,Home & Kitchen,1374.31
+3124,Bedsheet Set Classic,Home & Kitchen,573.7
+3125,Curtains Max,Home & Kitchen,1027.55
+3126,Blender Lite,Home & Kitchen,1794.36
+3127,Wall Clock,Home & Kitchen,3299.36
+3128,Bedsheet Set Classic,Home & Kitchen,3463.81
+3129,Table Lamp,Home & Kitchen,176.77
+3130,Curtains,Home & Kitchen,2116.38
+3131,Storage Box Lite,Home & Kitchen,1757.03
+3132,Water Bottle Plus,Home & Kitchen,1005.12
+3133,Cutlery Set Pro,Home & Kitchen,611.48
+3134,Bedsheet Set Plus,Home & Kitchen,1449.82
+3135,Bedsheet Set,Home & Kitchen,3780.2
+3136,Wall Clock Plus,Home & Kitchen,1394.33
+3137,Non-stick Pan Pro,Home & Kitchen,2147.34
+3138,Table Lamp Classic,Home & Kitchen,2856.62
+3139,Non-stick Pan,Home & Kitchen,1549.97
+3140,Wall Clock Lite,Home & Kitchen,3891.36
+3141,Storage Box Classic,Home & Kitchen,3855.42
+3142,Storage Box Max,Home & Kitchen,1119.36
+3143,Bedsheet Set Classic,Home & Kitchen,2064.41
+3144,Cutlery Set,Home & Kitchen,1308.38
+3145,Water Bottle Pro,Home & Kitchen,1246.64
+3146,Table Lamp,Home & Kitchen,292.01
+3147,Curtains Plus,Home & Kitchen,2496.82
+3148,Blender,Home & Kitchen,2085.31
+3149,Water Bottle Pro,Home & Kitchen,348.19
+3150,Storage Box Max,Home & Kitchen,1222.79
