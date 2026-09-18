@@ -3,7 +3,7 @@
 **End-to-end data analytics project** using MySQL, Python (Pandas/NumPy), and Power BI to diagnose why a mid-sized e-commerce retailer's revenue growth had stalled — despite steady marketing spend.
 
 ---
-
+![UrbanCart Dashboard](Dashboard.png)
 ## Business Problem
 
 UrbanCart is a fictional mid-sized e-commerce retailer selling Electronics, Fashion, and Home & Kitchen products across 8 Indian cities. Over the past two quarters, leadership observed that **revenue growth had plateaued** despite consistent marketing investment. With no clear visibility into customer behavior, regional performance, or product trends, management needed a data-driven diagnosis before committing further budget to any single fix.
@@ -69,6 +69,8 @@ Star-schema data model with a dedicated `DateTable` for reliable time-intelligen
 - **Revenue by Category** and **Revenue by City** (bar charts)
 - **Customer metrics:** Total Customers, Repeat Customer %
 - **Interactive slicers:** Month, City, Category
+
+
 
 10 DAX measures built, including `DIVIDE()`-safe ratios, `SUMX`/`RELATED()` cost calculations, and time-intelligence (`SAMEPERIODLASTYEAR`, `DATEADD`) measures.
 
